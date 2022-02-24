@@ -6,4 +6,4 @@ Slides for a talk on a proposed framework for inference on model-agnostic variab
 
 See tagged releases for different versions of the talk.
 
-The slides can be viewed [here](https://bdwilliamson.github.io/generalvim).
+The slides can be viewed [here](https://bdwilliamson.github.io/generalvim-slds).
